@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Manvi9211/Manvi9211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# Hi, I'm Manvi 👋
+# Hi, I'm Manvi 👋
 
 🎓 Student | 🔍 Actively looking for opportunities in **Generative AI / LLMs**
 
@@ -14,26 +9,14 @@ Building and experimenting with LLM-based applications — things like prompt en
 `Python` `LangChain` `Hugging Face` `OpenAI / LLM APIs` `RAG` `Prompt Engineering` `PyTorch`
 
 ## 📌 Featured Projects
-- **[BRAIN AI — Industrial Knowledge Intelligence Platform](https://brain-ai-tau.vercel.app/)** — Processing plant documentation through hallucination-gated RAG, dynamic knowledge graphs, and automated 5-Whys root cause analysis. Zero fabricated answers
+- **[BRAIN AI — Industrial Knowledge Intelligence Platform](https://brain-ai-tau.vercel.app/)** — Processing plant documentation through hallucination-gated RAG, dynamic knowledge graphs, and automated 5-Whys root cause analysis. Zero fabricated answers -
 - **[Instagram Reply-Generator](https://github.com/Manvi9211/instagram-reply-generator)** — An intelligent, RAG-powered assistant that auto-generates on-brand Instagram comment replies — instantly.
-
-
-- **[Project Name](link)** — one-line description of what it does and the impact/result
+- **[Multi-agent system](https://github.com/Manvi9211/Multi-agents-systemsk)** — one-line description of what it does and the impact/result
 
 ## 📫 Reach Me
 - 📧 mishramanvi2188@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/manvi-mishra08)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manvi-mishra08/)
 - 🌐 [Portfolio](manvi-portfolio-sandy.vercel.app)
 
 ---
 ⭐ Open to Generative AI / LLM roles — let's connect!
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
