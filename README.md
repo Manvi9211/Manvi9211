@@ -16,7 +16,7 @@ Building and experimenting with LLM-based applications — things like prompt en
 ## 📫 Reach Me
 - 📧 mishramanvi2188@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/manvi-mishra08/)
-- 🌐 [Portfolio](manvi-portfolio-sandy.vercel.app)
+- 🌐 [Portfolio](https://manvi-portfolio-sandy.vercel.app/)
 
 ---
 ⭐ Open to Generative AI / LLM roles — let's connect!
